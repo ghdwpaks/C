@@ -1,1 +1,5 @@
-*.c
+*.vcxproj*
+*.obj
+*.tlog
+*.idb
+*.pdb
