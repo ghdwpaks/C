@@ -1,6 +1,9 @@
 ﻿  main.c
-  p1671.c
-  p1681.c
+  p2181.c
+  p2182.c
+  p2191.c
   코드를 생성하고 있습니다...
-C:\workspace\C_project\Craftsman_Information_Processing\d01\d1p1\d1p1\p1681.c(13): warning C4716: 'p1681': 값을 반환해야 합니다.
+C:\workspace\C_project\Craftsman_Information_Processing\d01\d1p1\d1p1\p2191.c(14): warning C4715: 'isprime2191': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\workspace\C_project\Craftsman_Information_Processing\d01\d1p1\d1p1\p2182.c(16): warning C4716: 'p2182': 값을 반환해야 합니다.
+C:\workspace\C_project\Craftsman_Information_Processing\d01\d1p1\d1p1\p2181.c(20): warning C4716: 'p2181': 값을 반환해야 합니다.
   d1p1.vcxproj -> C:\workspace\C_project\Craftsman_Information_Processing\d01\d1p1\Debug\d1p1.exe
