@@ -12,7 +12,6 @@ int p1591() {
 }
 
 func(i, j)
-
 int i, j;
 {
 	i *= 3;
