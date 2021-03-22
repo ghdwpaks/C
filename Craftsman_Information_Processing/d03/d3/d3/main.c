@@ -1,13 +1,9 @@
 #include <stdio.h>
 #include "Bridge.h"
 int main() {
-	
+	p1311();
 
 
-
-
-	p1221();
-	p2191();
 
 	return 0;
 }
