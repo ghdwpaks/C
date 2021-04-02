@@ -1,0 +1,15 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+int p1831() {
+	int a[5], temp;
+	for (int i = 0; i < 5; i++) {
+		a[i] = i + 1;
+		printf("%d", a[i]);
+	}
+	printf("\n");
+	temp = a[0];
+	for (int i = 0; i < 4; i++)a[i] = a[i + 1];
+	a[4] = temp;
+	for (int i = 0; i < 5; i++)printf("%d", a[i]);
+	return 0;
+}
